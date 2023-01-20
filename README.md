@@ -1,4 +1,4 @@
-# Olá!! Meu nome é Leonardo, 24. 👋 
+# Olá!! Meu nome é Leonardo, 24.<img src="https://github.com/leozinn19/leozinn19/blob/assets/hi.gif" width="150">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-oliveira-810a4a1ab/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leonardo.s.o.gc@gmail.com)](mailto:leonardo.s.o.gc@gmail.com)
